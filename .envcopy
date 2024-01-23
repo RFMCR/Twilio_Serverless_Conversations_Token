@@ -1,0 +1,22 @@
+ACCOUNT_SID=
+AUTH_TOKEN=
+
+# Variables for function ""
+# ---
+# description: API key for your Twilio Account
+# format: text
+# link: https://www.twilio.com/console/runtime/api-keys/create
+# required: true
+API_KEY=
+
+# description: API secret for your API Key
+# format: secret
+# link: https://www.twilio.com/console/runtime/api-keys/create
+# required: true
+API_SECRET=
+
+# description: SID of your Twilio Chat Service
+# format: sid
+# link: https://www.twilio.com/docs/api/chat/rest/services
+# required: true
+CHAT_SERVICE_SID=
